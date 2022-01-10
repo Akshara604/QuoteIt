@@ -1,0 +1,13 @@
+{
+    "name": "Motivate",
+    "description": "Generates random famous quotes",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+         "default_popup": "popup.html"
+    },
+    "icons":{
+         "128": "ChromeExtensionLogo (128 x 128 px).png"
+    },
+    "permissions": ["activeTab"]
+  }
